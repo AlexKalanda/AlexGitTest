@@ -17,6 +17,7 @@
 		840D24EF2ACC8DBE00BCBEF4 /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840D24EE2ACC8DBE00BCBEF4 /* GitTestUITests.swift */; };
 		840D24F12ACC8DBE00BCBEF4 /* GitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840D24F02ACC8DBE00BCBEF4 /* GitTestUITestsLaunchTests.swift */; };
 		840D24FE2ACC8F2100BCBEF4 /* FirstFailTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840D24FD2ACC8F2100BCBEF4 /* FirstFailTest.swift */; };
+		840D25022ACC943800BCBEF4 /* error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840D25012ACC943800BCBEF4 /* error.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		840D24EE2ACC8DBE00BCBEF4 /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		840D24F02ACC8DBE00BCBEF4 /* GitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		840D24FD2ACC8F2100BCBEF4 /* FirstFailTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstFailTest.swift; sourceTree = "<group>"; };
+		840D25012ACC943800BCBEF4 /* error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = error.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				840D24CD2ACC8DBD00BCBEF4 /* AppDelegate.swift */,
 				840D24CF2ACC8DBD00BCBEF4 /* SceneDelegate.swift */,
 				840D24D12ACC8DBD00BCBEF4 /* ViewController.swift */,
+				840D25012ACC943800BCBEF4 /* error.swift */,
 				840D24D32ACC8DBD00BCBEF4 /* Main.storyboard */,
 				840D24D62ACC8DBE00BCBEF4 /* Assets.xcassets */,
 				840D24D82ACC8DBE00BCBEF4 /* LaunchScreen.storyboard */,
@@ -279,6 +282,7 @@
 			files = (
 				840D24D22ACC8DBD00BCBEF4 /* ViewController.swift in Sources */,
 				840D24CE2ACC8DBD00BCBEF4 /* AppDelegate.swift in Sources */,
+				840D25022ACC943800BCBEF4 /* error.swift in Sources */,
 				840D24FE2ACC8F2100BCBEF4 /* FirstFailTest.swift in Sources */,
 				840D24D02ACC8DBD00BCBEF4 /* SceneDelegate.swift in Sources */,
 			);
